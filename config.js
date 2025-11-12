@@ -11,7 +11,7 @@ window.GAME_CONFIG = {
     game: {
         title: "Собери все пары и получи подарок!",
         winMessage: "Поздравляем с победой!<br>Дарим подарок: вафля Шоколадный банан стандарт по промокоду {PROMO_CODE}.",
-        promoCode: "ТЕПЛО",
+        promoCode: "TEPLO",
         restartButtonText: "Играть заново"
     },
     
